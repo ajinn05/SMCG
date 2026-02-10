@@ -1,0 +1,5 @@
+Wnp12432
+ 740000   900000   3   ##  NCL,  NFC,  MRL
+   4200     3600   0   ##  NLon, NLat, NPol
+'../DatGMC/Wnp12432Cels.dat'
+.FALSE.
