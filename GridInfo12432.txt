@@ -1,0 +1,6 @@
+ Wnp12432 3 level grid zlon zlat dlon dlat for size-1 cells.  ACho06Feb2026
+  115.0  20.0  0.008333333  0.008333333
+  ../tmpfls/   ../DatGMC/               Working and cell array dirs.
+  0  Number of polar cells or polar parts. 0 implies no Arctic part.
+  ../../S12432Tx/ww3.    ../OutDat/   4    SWH and PropTest file dirs and nhr.
+
